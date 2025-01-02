@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjai R</h1>
-<h3 align="center">A passionate AI Engineer and Frontend Developer </h3>
+<h3 align="center">A passionate AI Engineer and Mern Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjairajaganapathi2005&label=Profile%20views&color=0e75b6&style=flat" alt="sanjairajaganapathi2005" /> </p>
 

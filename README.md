@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanjairajaganapathi2005?tab=repositories](https://github.com/sanjairajaganapathi2005?tab=repositories)
+🔭 I’m currently working on [Construction Monitoring using Deep Learning](https://github.com/sriram1015/Construction_progress)
 
-- 📫 How to reach me **sanjairajaganapathi2005@gmail.com**
+👨‍💻 All of my projects are available at [My Project Repos](https://github.com/sanjairajaganapathi2005?tab=repositories)
+
+📫 How to reach me **sanjairajaganapathi2005@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bV0EVqjvKYxulcG5c4TDTdlShRuTxy0D/view?usp=drive_link](https://drive.google.com/file/d/1bV0EVqjvKYxulcG5c4TDTdlShRuTxy0D/view?usp=drive_link)
 

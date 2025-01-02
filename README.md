@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sanjai R</h1>
 <h3 align="center">A passionate AI Engineer and Mern Stack Developer </h3>
 
-<p style="text-align: left;">
+<p style="text-align: center; padding: 20px;">
     <img src="https://komarev.com/ghpvc/?username=sanjairajaganapathi2005&label=Profile%20views&color=0e75b6&style=flat" 
          alt="sanjairajaganapathi2005" 
-         style="border: 2px solid #0e75b6; padding: 5px; border-radius: 8px;" />
+         style="border: 3px solid #0e75b6; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;"/>
 </p>
+
+<style>
+    img:hover {
+        transform: scale(1.1);
+    }
+</style>
+
 
 - 🔭 I’m currently working on [Construction Monitoring using Deep Learning](https://github.com/sriram1015/Construction_progress)
 

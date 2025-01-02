@@ -78,13 +78,7 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 
-### My Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/user6501WT?theme=dark&font=Montaga&ext=heatmap)
-
-### GitHub Activity
-![Sanjai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjairajaganapathi2005&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjairajaganapathi2005&bg_color=050505&color=f5f5f5&line=0cc62b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanjairajaganapathi2005WT?theme=dark&font=Montaga&ext=heatmap)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjairajaganapathi2005&show_icons=true&locale=en&layout=compact" alt="sanjairajaganapathi2005" /></p>
 

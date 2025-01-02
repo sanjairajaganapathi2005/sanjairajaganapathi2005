@@ -78,7 +78,7 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sanjairajaganapathi2005?theme=unicorn&font=Cormorant%20Infant&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanjairajaganapathi2005?theme=forest&font=Cormorant%20Infant&ext=heatmap)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjairajaganapathi2005&show_icons=true&locale=en&layout=compact" alt="sanjairajaganapathi2005" /></p>
 

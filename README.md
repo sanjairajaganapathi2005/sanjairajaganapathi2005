@@ -13,7 +13,7 @@
 
 📫 How to reach me **sanjairajaganapathi2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bV0EVqjvKYxulcG5c4TDTdlShRuTxy0D/view?usp=drive_link](https://drive.google.com/file/d/1bV0EVqjvKYxulcG5c4TDTdlShRuTxy0D/view?usp=drive_link)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/)
 
 <h3 align="left">Connect with me:</h3>
 

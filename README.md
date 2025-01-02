@@ -1,11 +1,28 @@
 <h1 align="center">Hi 👋, I'm Sanjai R</h1>
 <h3 align="center">A passionate AI Engineer and Mern Stack Developer </h3>
 
-<p style="text-align: center; padding: 20px;">
+<p style="text-align: center; padding: 40px 20px;">
     <img src="https://komarev.com/ghpvc/?username=sanjairajaganapathi2005&label=Profile%20views&color=0e75b6&style=flat" 
          alt="sanjairajaganapathi2005" 
-         style="border: 3px solid #0e75b6; padding: 15px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;"/>
+         style="border: none; padding: 10px; border-radius: 50%; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;"/>
 </p>
+
+<style>
+    img {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        background: linear-gradient(45deg, #0e75b6, #1c84b5);
+        border-radius: 50%;
+    }
+    
+    img:hover {
+        transform: scale(1.1);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+        filter: brightness(1.1);
+    }
+</style>
+
 
 <style>
     img:hover {

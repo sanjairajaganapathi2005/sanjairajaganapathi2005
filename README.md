@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=sanjairajaganapathi2005&label=Profile%20views&color=0e75b6&style=flat" 
          alt="sanjairajaganapathi2005" 
          style="border: 2px solid #0e75b6; padding: 5px; border-radius: 8px; 
-                width: 100px; height: 30px; object-fit: cover;" />
+                width: 120px; height: 40px; object-fit: cover;" />
 </p>
 
 

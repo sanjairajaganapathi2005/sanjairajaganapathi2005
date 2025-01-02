@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjairajaganapathi2005&label=Profile%20views&color=0e75b6&style=flat" alt="sanjairajaganapathi2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjairajaganapathi2005" alt="sanjairajaganapathi2005" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Construction Monitoring using Deep Learning](https://github.com/sriram1015/Construction_progress)
@@ -95,4 +93,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjairajaganapathi2005&" alt="sanjairajaganapathi2005" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjairajaganapathi2005" alt="sanjairajaganapathi2005" /></a> </p>
 

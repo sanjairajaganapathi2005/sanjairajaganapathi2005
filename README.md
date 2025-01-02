@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjairajaganapathi2005&label=Profile%20views&color=0e75b6&style=flat" alt="sanjairajaganapathi2005" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Construction Monitoring using Deep Learning](https://github.com/sriram1015/Construction_progress)
 
 - 👨‍💻 All of my projects are available at [My Project Repos](https://github.com/sanjairajaganapathi2005?tab=repositories)
@@ -12,6 +10,8 @@
 - 📫 How to reach me **sanjairajaganapathi2005@gmail.com**
 
 - 📄 Know about me [My Resume](https://drive.google.com/file/d/)
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>

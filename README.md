@@ -21,9 +21,7 @@
 
 - 📫 How to reach me **sanjairajaganapathi2005@gmail.com**
 
-- [My Portfolio](https://sanjairajaganapathi2005.github.io/Portfolio/)
-
-- 📄 Know about me [My Resume](https://drive.google.com/file/d/)
+- 📄 Know about me [My Resume](https://drive.google.com/file/d/)  [My Portfolio](https://sanjairajaganapathi2005.github.io/Portfolio/)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

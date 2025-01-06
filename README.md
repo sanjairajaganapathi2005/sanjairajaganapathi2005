@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning UI/UX, AWS.
 
-- [My Portfolio] https://sanjairajaganapathi2005.github.io/Portfolio/
+- [My Portfolio]https://sanjairajaganapathi2005.github.io/Portfolio/
 
 - 📝 LeetCode https://leetcode.com/u/sanjairajaganapathi2005/
 

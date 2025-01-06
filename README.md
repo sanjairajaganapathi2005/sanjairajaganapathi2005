@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning UI/UX, AWS.
 
-- [My Portfolio]https://sanjairajaganapathi2005.github.io/Portfolio/
-
 - 📝 LeetCode https://leetcode.com/u/sanjairajaganapathi2005/
 
 - 💬 Ask me about Machine Learning, Deep Learning, Mern Stack
@@ -22,6 +20,8 @@
 - 👨‍💻 All of my projects are available at [My Project Repos](https://github.com/sanjairajaganapathi2005?tab=repositories)
 
 - 📫 How to reach me **sanjairajaganapathi2005@gmail.com**
+
+- [My Portfolio](https://sanjairajaganapathi2005.github.io/Portfolio/)
 
 - 📄 Know about me [My Resume](https://drive.google.com/file/d/)
 

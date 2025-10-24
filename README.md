@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjai R</h1>
-<h3 align="center">A passionate AI Engineer and Mern Stack Developer </h3>
+<h3 align="center">A passionate AI/ML Engineer </h3>
 
 
 
@@ -9,13 +9,13 @@
 
 - 📝 LeetCode https://leetcode.com/u/sanjairajaganapathi2005/
 
-- 💬 Ask me about Machine Learning, Deep Learning, Mern Stack
+- 💬 Ask me about Machine Learning, Deep Learning,AI, Mern Stack
 
 - 👨‍💻 All of my projects are available at [My Project Repos](https://github.com/sanjairajaganapathi2005?tab=repositories)
 
 - 📫 How to reach me **sanjairajaganapathi2005@gmail.com**
 
-- 📄 Know about me [My Portfolio](https://sanjairajaganapathi2005.github.io/Portfolio/) & [My Resume](https://drive.google.com/file/d/).
+- 📄 Know about me [My Portfolio](https://sanjairajaganapathi.me) & [My Resume](https://drive.google.com/file/d/1DLC-SqFtFlJczTBUtm-tWWtY3tQIY6J6/view?usp=sharing).
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

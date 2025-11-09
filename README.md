@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Construction Monitoring using Deep Learning](https://github.com/sriram1015/Construction_progress)
 
-- 🌱 I’m currently learning UI/UX, AWS.
+- 🌱 I’m currently learning AWS.
 
 - 📝 LeetCode https://leetcode.com/u/sanjairajaganapathi2005/
 
